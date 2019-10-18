@@ -1,0 +1,7 @@
+contacts.sql
+give_mc_a_pk.sql
+create_gender.sql
+create_status.sql
+create_city_state.sql
+create_profession.sql
+0000create_interests.sql
